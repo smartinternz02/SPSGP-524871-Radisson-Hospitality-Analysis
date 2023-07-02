@@ -1,0 +1,5 @@
+The links are given below: 
+
+Link for the Dashboard: https://public.tableau.com/views/HotelRadissonAnalysisDashboard/HotelRadissonDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Link for the Story: https://public.tableau.com/views/Hotel_Radisson_Analysis/HotelRadissonStory?:language=en-US&:display_count=n&:origin=viz_share_link
